@@ -1,0 +1,33 @@
+[ 2022-09-01 17:21:48,416 ] game.game.logic - INFO - Game Started
+[ 2022-09-01 17:21:54,715 ] game.game.logic - INFO - Player 1 input X
+[ 2022-09-01 17:21:54,715 ] game.game.logic - INFO - Player 2 will go first 
+[ 2022-09-01 17:21:56,066 ] game.game.logic - INFO - Board Displayed
+[ 2022-09-01 17:21:58,283 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:58,283 ] game.game.logic - INFO - Marker O Placed at 7
+[ 2022-09-01 17:21:58,283 ] game.game.logic - INFO - Checking Win For O
+[ 2022-09-01 17:21:58,283 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:58,283 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:58,283 ] game.game.logic - INFO - Board Displayed
+[ 2022-09-01 17:21:59,298 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:59,298 ] game.game.logic - INFO - Marker X Placed at 8
+[ 2022-09-01 17:21:59,298 ] game.game.logic - INFO - Checking Win For X
+[ 2022-09-01 17:21:59,298 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:59,298 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:59,298 ] game.game.logic - INFO - Board Displayed
+[ 2022-09-01 17:21:59,762 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:59,762 ] game.game.logic - INFO - Marker O Placed at 4
+[ 2022-09-01 17:21:59,762 ] game.game.logic - INFO - Checking Win For O
+[ 2022-09-01 17:21:59,762 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:59,762 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:21:59,762 ] game.game.logic - INFO - Board Displayed
+[ 2022-09-01 17:22:00,227 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:22:00,227 ] game.game.logic - INFO - Marker X Placed at 5
+[ 2022-09-01 17:22:00,227 ] game.game.logic - INFO - Checking Win For X
+[ 2022-09-01 17:22:00,227 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:22:00,227 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:22:00,227 ] game.game.logic - INFO - Board Displayed
+[ 2022-09-01 17:22:01,171 ] game.game.logic - INFO - Checking space on the board 
+[ 2022-09-01 17:22:01,171 ] game.game.logic - INFO - Marker O Placed at 1
+[ 2022-09-01 17:22:01,171 ] game.game.logic - INFO - Checking Win For O
+[ 2022-09-01 17:22:01,171 ] game.game.logic - INFO - Board Displayed
+[ 2022-09-01 17:22:01,172 ] game.game.logic - INFO - Game Reset 
